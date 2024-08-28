@@ -14,7 +14,13 @@ h1 {
     justify-content: center;
 }
 
-.span {
-    background-color: blue;
-    color: blue;
+.page a{
+    text-decoration: none;
+    margin-left: 30px;
+}
+.page ul{
+    list-style: none;
+    display: flex;
+    padding: 20px;
+    justify-content: center;
 }
