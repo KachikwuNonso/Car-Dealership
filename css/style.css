@@ -1,3 +1,20 @@
-.card {
-    padding-left: 50px;
+.bg {
+    background-color: rgba(128, 128, 128, 0.507);
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    font-size: 60px;
+    color: blue;
+    display: flex;
+    justify-content: center;
+}
+
+.span {
+    background-color: blue;
+    color: blue;
 }
