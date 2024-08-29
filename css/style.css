@@ -4,6 +4,7 @@
 
 .color {
     color: blue;
+    padding-left: 10px;
 }
 
 .flex {
@@ -83,3 +84,23 @@
 .com {
     padding-left: 70px;
 }
+
+.car-sec {
+    background-color: rgba(128, 128, 128, 0.507);
+ }
+
+ .nc {
+    text-align: center;
+ }
+
+ .buy {
+    margin-bottom: 50px;
+ }
+
+ .now {
+    margin-bottom: 50px;
+ }
+
+ .card {
+    justify-content: space-between;
+ }
